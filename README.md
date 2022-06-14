@@ -1,15 +1,17 @@
-### Victor Hugo
-  
-##
+## Victor Hugo
 
-<div align="left">
-  <a href="https://github.com/victorshgo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorshgo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorshgo&langs_count=5&theme=dark" />
-</div>
+Autodidata há alguns anos, sempre tive curiosidade em entender como as coisas funcionavam.
+
+Me interessei pela criação de sites e com o tempo e muito estudo, sempre com a ajuda apenas do Google, desenvolvi minhas habilidades na criação de aplicações web com JavaScript.
+
+Hoje, com todo o ecossistema JavaScript e meu foco no front end, sou apaixonado pela stack:
+React.js, Node.js e React Native devido ao seu crescimento constante, comunidade ativa e todo o poder que essas tecnologias têm, especialmente quando combinadas.
+
+Além disso, por ter sido marcada para sempre como uma das primeiras linguagens de programação que aprendi e por ser a responsável por me apaixonar pelo mundo da tecnologia e do desenvolvimento.
   
 <div style="display: inline_block">
-  <br>
+  <br />
+  
   <img align="center" alt="victorshgo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   
   <img align="center" alt="victorshgo-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
@@ -20,4 +22,4 @@
   
   <img align="center" alt="victorshgo-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
- 
+ </div>
